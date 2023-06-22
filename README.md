@@ -5,6 +5,7 @@
 [![DaeGyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangdeagyu&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/kangdeagyu/github-readme-stats)
 
 
+ <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
 AngularJS-powered HTML5 Markdown editor.
 

@@ -60,7 +60,7 @@
 	<a href="mailto:rkdeorb0124@naver.com">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=for-the-badge&logo=Naver&logoColor=white" />
 	</a>
-	<a href="https://www.notion.so/85bae431a6ca403ea36b07f47df911b5?pvs=4">
+	<a href="[https://www.notion.so/85bae431a6ca403ea36b07f47df911b5?pvs=4](https://alpine-bridge-862.notion.site/85bae431a6ca403ea36b07f47df911b5?pvs=4)">
 		<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
 	</a>
 	<br>
